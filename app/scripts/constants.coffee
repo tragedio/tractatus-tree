@@ -66,6 +66,7 @@ angular.module('tractatus-tree').constant('constant.tree', {
                     "content": {
                         "de": "<p>Die Welt zerf\u00e4llt in Tatsachen.</p>", 
                         "en": "<p>The world divides into facts.</p>"
+                         "en": "<p>جهان به بوده ها تقسیم می شود.</p>"
                     }, 
                     "empty": false, 
                     "key": "1.2", 
